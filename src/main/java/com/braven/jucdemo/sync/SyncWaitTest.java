@@ -3,7 +3,7 @@ package com.braven.jucdemo.sync;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author  Fox
+ * @author  braven
  */
 @Slf4j
 public class SyncWaitTest {

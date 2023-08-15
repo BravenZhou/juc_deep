@@ -1,7 +1,7 @@
 package com.braven.jucdemo.threadbase;
 
 /**
- * @author  Fox
+ * @author  braven
  * 中断机制
  */
 public class ThreadInterruptTest {

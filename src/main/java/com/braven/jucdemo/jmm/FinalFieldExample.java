@@ -1,7 +1,7 @@
 package com.braven.jucdemo.jmm;
 
 /**
- * @author  Fox
+ * @author  braven
  *
  * https://docs.oracle.com/javase/specs/jls/se14/html/jls-17.html#jls-17.5
  */

@@ -1,5 +1,7 @@
 package com.braven.jucdemo.threadactiveness;
 
+import java.util.concurrent.locks.ReentrantLock;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 

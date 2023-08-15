@@ -12,7 +12,7 @@ import lombok.extern.slf4j.Slf4j;
 
 
 /**
- * @author  Fox
+ * @author  braven
  * 定长线程池饥饿示例
  */
 @Slf4j

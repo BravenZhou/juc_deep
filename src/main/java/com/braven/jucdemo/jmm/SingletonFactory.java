@@ -1,7 +1,7 @@
 package com.braven.jucdemo.jmm;
 
 /**
- * @author  Fox
+ * @author  braven
  * hsdis-amd64.dll
  * 查看汇编指令
  * -XX:+UnlockDiagnosticVMOptions -XX:+PrintAssembly -Xcomp

@@ -1,7 +1,7 @@
 package com.braven.jucdemo.threadbase;
 
 /**
- * @author  Fox
+ * @author  braven
  */
 public class ThreadStopDemo2 implements Runnable {
 

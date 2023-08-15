@@ -6,7 +6,7 @@ import java.util.concurrent.locks.LockSupport;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author  Fox
+ * @author  braven
  */
 @Slf4j
 public class AtomicStampedReferenceTest {

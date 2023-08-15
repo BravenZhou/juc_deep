@@ -5,7 +5,7 @@ server:
 spring:
   redis:
     database: 0
-    host: tlshop.com
+    host: test.com
     port: 6379
     password: 123456
     jedis:
